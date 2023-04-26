@@ -2,7 +2,7 @@
 #### Cadet of 42sp (Graduated)
 ![cadete da 42sp](https://i0.wp.com/geeksnewslab.com/wp-content/uploads/2019/07/HelloWorld-1.png?fit=809%2C298&ssl=1)
 
-Currently working at VIVO (system annalitcs) - Back-End side!  
+Currently working at VIVO (system analytics) - Backend side!
 
 Skills: C / JAVA / Javascript / Angular / Node / NestJs / MySQL
 
